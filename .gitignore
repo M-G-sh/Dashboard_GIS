@@ -1,0 +1,29 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Renviron
+
+# Shiny
+rsconnect/
+
+# Shapefile data (بيانات حساسة / ملفات كبيرة)
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.qmd
+*.sbn
+*.sbx
+
+# Temp files
+*.tmp
+*.log
+read_fields.R
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
